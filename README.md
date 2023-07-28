@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonel Huachaca</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonelhv" alt="leonelhv" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://leonelhuachaca.vercel.app/](https://leonelhuachaca.vercel.app/)
 
